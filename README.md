@@ -1,4 +1,8 @@
 # E-Commerce Website Using Java 
+
+## Important : This Repository is a modification version of the original e-commerce Website for QA purpose. Please check out the original for unmodified repository.
+[https://github.com/harshitshakya123/E-commerce_website](https://github.com/harshitshakya123/E-commerce_website)
+
 ### E-Commerce
 <span style="color:blue">**This Website is built for following purpose:-**</span>
 - For buying product online
